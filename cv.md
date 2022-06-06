@@ -22,7 +22,7 @@
     window.a = 3;
     alert(a); // 2: variable is defined by var
     }     
-# Education #
+# Education # 
 * **College** : Socio-Humanitarian College
 # Languages # 
 * **English** - A2
